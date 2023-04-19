@@ -77,14 +77,14 @@ main article section p {
     margin: 1.5rem;
 }
 
-#resume-link {
+#resume {
     text-decoration: none;
     color: #414143;
     border-bottom: #414143 2px dashed;
     transition: 0.5s;
 }
 
-#resume-link:hover  {
+#resume:hover  {
     color: #43a2fe;
     border-bottom: 2px solid #43a2fe;
 }
