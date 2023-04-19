@@ -67,13 +67,25 @@ Sitemap and wireframes were created and exported using Balsamiq Cloud
 
 ![Mobile About page screenshot](./docs/screenshot-mobile-about.png)
 
+![Tablet About page screenshot](./docs/screenshot-tablet-about.png)
+
+![Desktop About page screenshot](./docs/screenshot-desktop-about.png)
+
 ### **Projects screenshots**
 
 ![Mobile Projects page screenshot](./docs/screenshot-mobile-projects.png)
 
+![Tablet Projects page screenshot](./docs/screenshot-tablet-projects.png)
+
+![Desktop Projects page screenshot](./docs/screenshot-desktop-projects.png)
+
 ### **Blog screenshots**
 
 ![Mobile Blog page screenshot](./docs/screenshot-mobile-blog.png)
+
+![Tablet Blog page screenshot](./docs/screenshot-tablet-blog.png)
+
+![Desktop Blog page screenshot](./docs/screenshot-desktop-blog.png)
 
 ### **Blog entries screenshots**
 
@@ -108,5 +120,9 @@ Sitemap and wireframes were created and exported using Balsamiq Cloud
 ![Desktop Blog entry 5 screenshot](./docs/screenshot-desktop-blog5.png)
 
 ### **Contact screenshots**
+
+![Mobile Contact page screenshot](./docs/screenshot-mobile-contact.png)
+
+![Tablet Contact page screenshot](./docs/screenshot-tablet-contact.png)
 
 ![Desktop Contact page screenshot](./docs/screenshot-desktop-contact.png)
