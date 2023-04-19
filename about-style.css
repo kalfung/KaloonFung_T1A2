@@ -151,7 +151,13 @@ main article section p {
 #resume-link {
     text-decoration: none;
     color: #414143;
+    border-bottom: #414143 2px dashed;
     transition: 0.5s;
+}
+
+#resume-link:hover  {
+    color: #43a2fe;
+    border-bottom: 2px solid #43a2fe;
 }
 
 /* Social media links */
