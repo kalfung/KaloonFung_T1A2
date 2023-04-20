@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@900&display=swap');
+
 * {
     box-sizing: border-box;
     margin: 0;
@@ -13,6 +15,7 @@ header {
     align-items: center;
     overflow: hidden;
     position: fixed;
+    z-index: 1;
     top: 0;
     width: 100%;
 }
@@ -30,6 +33,7 @@ header {
     color: #76736e;
     margin-right: 0.5rem;
     font-weight: normal;
+    transition: 0.3s;
 }
 
 #topnav a:hover {
@@ -43,11 +47,26 @@ header {
     display: flex;
     flex-direction: column;
     align-items: center;
-    background: url(/images/hero-image.jpg) 51% 100% no-repeat;
+    background-blend-mode: multiply;
+    background: #00000070 url(/images/hero-image.jpg) 51% 100% no-repeat;
     background-size: cover;
     height: 50vw;
     margin-top: 75px;
     max-height: 500px;
+}
+
+#hero-text {
+    font-family: 'Raleway', Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    position: relative;
+    top: 35%;
+    color: white;
+}
+
+#hero-text h1 {
+    font-size: 3rem;
+    font-family: 'Raleway', Verdana, Geneva, Tahoma, sans-serif;
+    color: #43a2fe;
 }
 
 /* Home page main */
@@ -69,7 +88,7 @@ main article {
     margin: 1rem
 }
 
-main article h1 {
+main article h2 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 2rem;
     color: #414143;
@@ -217,6 +236,14 @@ footer {
     #topnav a {
         font-size: 1.2rem;
     }
+
+    #hero-text h1 {
+        font-size: 5rem;
+    }
+
+    #hero-text {
+        font-size: 1.2rem;
+    }
     
     main article { 
     flex-direction: row;
@@ -232,6 +259,15 @@ footer {
 /* ***DESKTOP STYLES*** */
 
 @media only screen and (min-width: 1200px) {
+    
+    #hero-text h1 {
+        font-size: 6rem;
+    }
+
+    #hero-text {
+        font-size: 1.3rem;
+    }
+    
     #profile-picture img {
         max-width: 500px;
     }
