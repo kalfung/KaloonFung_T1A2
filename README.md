@@ -30,7 +30,7 @@
 
 - [Portfolio Website](https://kaloonfung-t1a2.vercel.app/)
 - [GitHub Repository](https://github.com/kalfung/KaloonFung_T1A2)
-- [Slide deck presentation video - YouTube](MUST INSERT LINK HERE ONCE THE VIDEO UPLOAD IS COMPLETE)
+- [Slide deck presentation video - Loom](https://www.loom.com/share/79b9a910123049f091b4e0533505dc76)
 
 ## **Purpose**
 
